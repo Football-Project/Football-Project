@@ -12,20 +12,13 @@
 6.유저 별 스카우트 목록
 7.선수 계약<hr/>
 
-![home.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e6666ff-0ec8-4a32-883c-85d4bec6983a/home.png)
 
-![login.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76fea07c-de54-419c-9e59-94239e8362b9/login.png)
+<img src="https://user-images.githubusercontent.com/85853166/158923512-1e1f358a-1546-4fff-a496-c36a6dad3038.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/85853166/158923516-b559eeb0-fb5d-42bd-8b54-9305015d761f.png"  width="500" height="300">
 
-![상세페이지.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/340e2dd9-c40e-4b3c-b44e-514a90c12b6c/상세페이지.png)
+<img src="https://user-images.githubusercontent.com/85853166/158923519-15fabf18-36f3-4705-a3fa-575d3c8cf308.png"  width="500" height="300"><img src="https://user-images.githubusercontent.com/85853166/158923522-893d3bb8-b32d-4f78-8657-50112ae7d17a.png"  width="500" height="300">
 
-![등록.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/297b985c-0480-4e78-9b10-d9d6f472a8ad/등록.png)
+<img src="https://user-images.githubusercontent.com/85853166/158923525-88b52e3b-40f7-410b-abae-31632abe4699.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/85853166/158923526-b039aa5f-4906-4550-bb62-249ff82d9734.png"  width="500" height="300">
 
-![계약.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8449fe32-ee2b-44b3-a7a4-1be63d8c8bcc/계약.png)
+<img src="https://user-images.githubusercontent.com/85853166/158923527-cf3eae17-d8a0-4d45-84f7-0961708ccb82.png"  width="500" height="300"><img src="https://user-images.githubusercontent.com/85853166/158923530-67e9c354-9726-41d9-bb94-2e4787bedd3f.png"  width="500" height="300">
 
-![join.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb640207-add2-41b5-8953-a56d018ee662/join.png)
-
-![playerlist.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89a2e3cc-934c-459f-ac5d-3413212f75dd/playerlist.png)
-
-![리뷰.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a70630d1-fae2-4f68-ae3c-a688828c6457/리뷰.png)
-
-![스카우트리스트.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bec05f69-bb6e-4f1b-96af-d3f6531d702f/스카우트리스트.png)
+<img src="https://user-images.githubusercontent.com/85853166/158923531-3bd47f98-7fa1-472e-a5ba-f92e2bfcfe77.png" width="500" height="300">
