@@ -12,6 +12,7 @@
 6.유저 별 스카우트 목록
 7.선수 계약<hr/>
 
+<h3>View</h3><br/>
 
 <img src="https://user-images.githubusercontent.com/85853166/158923512-1e1f358a-1546-4fff-a496-c36a6dad3038.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/85853166/158923516-b559eeb0-fb5d-42bd-8b54-9305015d761f.png"  width="500" height="300">
 
